@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"霍尔德","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"泰雷兹","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"玛莎","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"卢修斯","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":1,"equips":[0,0,2,3,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"米偌","nickname":"小鬼","note":"","profile":""},
+{"id":2,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":2,"equips":[2,0,0,0,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"迪莫","nickname":"勤屎皇","note":"","profile":""},
+{"id":3,"battlerName":"gangqinnv","characterIndex":0,"characterName":"gangqinnv","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"gangqinnv","traits":[],"initialLevel":5,"maxLevel":99,"name":"黄毛","nickname":"黄毛","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"路人甲","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[{"code":43,"dataId":2,"value":1},{"code":43,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":99,"name":"路人乙","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":43,"dataId":19,"value":1}],"initialLevel":1,"maxLevel":99,"name":"测试用","nickname":"","note":"","profile":""}
 ]

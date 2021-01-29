@@ -3,5 +3,14 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Basic plugin for manipulating important parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"MadeWithMv","status":true,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}}
+{"name":"Hook","status":true,"description":"","parameters":{}},
+{"name":"MadeWithMv","status":true,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithSwords","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"0"}},
+{"name":"SkipTitle","status":true,"description":"跳过RPG MAKER MV 的默认标题","parameters":{}},
+{"name":"PicturecallCommon","status":true,"description":"Clickable picture plugin","parameters":{"TransparentConsideration":"OFF","GameVariablePictureNum":"0"}},
+{"name":"GameWindowResize","status":true,"description":"设置游戏窗口大小","parameters":{"width":"1296","height":"720"}},
+{"name":"OptionsScene","status":true,"description":"your description","parameters":{"your parameter":"20"}},
+{"name":"TestPlugin","status":false,"description":"your description","parameters":{"your parameter":"20"}},
+{"name":"TextBalloon","status":true,"description":"让NPC显示对话气球.使用方法：在事件编辑器中输入this.setupTextBalloon('你好呀~~！')","parameters":{}},
+{"name":"MenuBackground","status":true,"description":"指定某一菜单的背景图","parameters":{"menu":"","skill":"","item":"","gameEnd":"","shop":"","save":"","load":""}},
+{"name":"NameInput","status":true,"description":"your description","parameters":{"your parameter":"20"}}
 ];
